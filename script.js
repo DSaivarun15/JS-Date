@@ -1,0 +1,3 @@
+function checkdate(){
+    alert(Date())
+}
